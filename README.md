@@ -1,5 +1,8 @@
 # 前端演示(前端仅用于编辑、新增、删除 实例配置文件)
 
+(代码100%全明文无任何加密就那么几行  啥也没有自己翻
+
+
 
 <img width="2523" height="1244" alt="image" src="https://github.com/user-attachments/assets/a438417d-8cf1-4f74-a51a-693d09eba866" />
 
