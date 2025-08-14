@@ -1,3 +1,17 @@
+# 删库声明
+## 原来这是一个人人都用过，人人都能轻易实现的老掉牙功能 是我打扰了
+
+
+<img width="772" height="585" alt="image" src="https://github.com/user-attachments/assets/adae9aea-5653-4e43-b464-abacd0c0bd65" />
+
+
+<img width="474" height="108" alt="image" src="https://github.com/user-attachments/assets/47682faa-2d36-416b-9e5a-e263232bd547" />
+
+
+<img width="676" height="92" alt="image" src="https://github.com/user-attachments/assets/01f4841b-d4c1-4bd8-9cd3-3bb4ff7a6ad1" />
+
+
+
 # 前端演示(前端仅用于编辑、新增、删除 实例配置文件)
 
 (代码100%全明文无任何加密就那么几行  啥也没有自己翻
